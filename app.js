@@ -17,8 +17,8 @@
      Two ad slots. For each, set src (image URL) and url (click-to-open link).
      Leave src empty to show the "广告位" placeholder; leave url empty to disable the jump. */
   var AD_CONFIG = [
-    { src: "https://www.xkwo.com/data/attachment/portal/202601/22/083746j0r6c0xt9elet9l5.gif", url: "http://linxi9528.hkfree.work/" },
-    { src: "https://img10.360buyimg.com/imgzone/jfs/t1/474321/37/12642/3801/6a52f969F4172f303/00831c2032640498.png", url: "http://linxi9528.hkfree.work/ds.html" }
+    { src: "", url: "http://57dh.cc.cd/" },
+    { src: "", url: "http://57zy.ccwu.cc/" }
   ];
 
   /* ---------- DOM refs ---------- */
