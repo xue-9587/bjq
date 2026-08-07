@@ -17,8 +17,8 @@
      Two ad slots. For each, set src (image URL) and url (click-to-open link).
      Leave src empty to show the "广告位" placeholder; leave url empty to disable the jump. */
   var AD_CONFIG = [
-    { src: "", url: "http://57dh.cc.cd/" },
-    { src: "", url: "http://57zy.ccwu.cc/" }
+    { src: "", url: "https://57dh.sylu.cc/" },
+    { src: "", url: "http://57zy.cc.cd/" }
   ];
 
   /* ---------- DOM refs ---------- */
